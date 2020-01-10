@@ -1,5 +1,5 @@
 # gebal
-Golang Library for European bank accounts
+Golang Library for European Bank Accounts
 
 ## Examples
 
@@ -13,12 +13,12 @@ Content:
 - 33 - Control digit
 - 4444444444 - Account number
 
-#### Generate Control Digit
+#### Generate Control digit
 ```
 package main
 
 import (
-	"github.com/aluvare/gebal/gebal-es"
+	"github.com/GolangResources/gebal/gebal-es"
 	"log"
 )
 
@@ -32,7 +32,7 @@ func main() {
 package main
 
 import (
-	"github.com/aluvare/gebal/gebal-es"
+	"github.com/GolangResources/gebal/gebal-es"
 	"log"
 )
 
