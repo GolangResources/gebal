@@ -3,7 +3,7 @@ Golang Library for European Bank Accounts
 
 ## Examples
 
-### Spain
+### Spain - CCC - Codigo Cuenta Cliente
 
 Lenght: 20 chars
 Example: "11112222334444444444"
